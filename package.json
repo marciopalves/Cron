@@ -1,0 +1,16 @@
+{
+  "name": "node-cron",
+  "version": "1.0.0",
+  "description": "Tutorial Node-Cron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Márcio <marciopalves89@gmail.com> (https://marciopalves.github.io/curriculo/",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-cron": "^3.0.2"
+  }
+}
